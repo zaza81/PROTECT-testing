@@ -1,6 +1,6 @@
-# Classificazione di Immagini con Gestione delle Licenze
+# Testing generazione Modello AI con Gestione delle Licenze
 
-Questo progetto implementa un sistema di classificazione di immagini che include la gestione delle licenze attraverso i metadati EXIF. Può classificare le immagini in diverse categorie (ad esempio, edifici, foreste) garantendo un corretto tracciamento delle licenze per ogni immagine.
+Questo progetto implementa un modello di AI che include la gestione delle licenze attraverso i metadati EXIF. E' un dimostrativo di PROTECT del progetto Holmes, che garantisce un corretto tracciamento delle licenze per ogni immagine - dimonstrando come si possa generare dei modelli di AI in rispetto del Copyright e delle licenze per ciascun file.
 
 ## Caratteristiche
 
@@ -8,7 +8,6 @@ Questo progetto implementa un sistema di classificazione di immagini che include
 - Gestione delle licenze attraverso metadati EXIF
 - Supporto per immagini riproducibili e protette da copyright
 - Filtraggio del dataset basato sullo stato della licenza
-- Interfaccia di predizione facile da utilizzare
 
 ## Struttura del Progetto
 
@@ -106,7 +105,3 @@ Il modello addestrato viene salvato nella directory `saved_model` come `my_model
 - exifread 3.0.0 o superiore
 - NumPy 1.24.0 o superiore
 - Matplotlib 3.8.0 o superiore
-
-## Licenza
-
-[Aggiungi qui le informazioni sulla licenza] 
