@@ -1,0 +1,7 @@
+tensorflow>=2.15.0
+tensorflow-datasets>=4.9.4
+pillow>=10.2.0
+piexif>=1.1.3
+exifread>=3.0.0
+numpy>=1.24.0
+matplotlib>=3.8.0 
